@@ -5,5 +5,5 @@ this.age =age;
     }
 }
 const obj= new car('saeed', 20);
-const obj1 = new car('anjum' , 23)
+const obj1 = new car('anjum' , 26)
 console.log(obj);
